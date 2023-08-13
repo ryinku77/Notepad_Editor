@@ -20,3 +20,6 @@ There will be a menu bar and it will contain two menus and a button:
 -copy: this menuitem is to copy the selected area to the clipboard
 -paste : this menuitem is to paste the text from the clipboard to the text area
 -Close : this button closes the frame
+
+
+
